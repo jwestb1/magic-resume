@@ -139,25 +139,3 @@ This project uses the Apache 2.0 license, with some custom components — see [L
 
 ---
 
-## 📞 Contact
-
-Stay updated through the following channels:
-
-- Author: SiYue  
-- X (formerly Twitter): @GuangzhouY81070  
-- Discord: Join the group at https://discord.gg/9mWgZrW3VN  
-- User group: Add on WeChat — qingchensiyue  
-- Email: 18806723365@163.com  
-- Project homepage: https://github.com/JOYCEQL/magic-resume
-
----
-
-## 🌟 Support the Project
-
-The cost of maintaining the project’s APIs is rising. If you find it helpful, consider supporting the author and open source development:
-
-![Support Image](https://github.com/JOYCEQL/picx-images-hosting/raw/master/pintu-fulicat.com-1741081632544.26lmg2uc2m.webp)
-
----
-
-Let me know if you'd like help customizing this for your own résumé project or deploying it!
